@@ -1,5 +1,5 @@
 package in.haeg.dungeonmeister.core;
 
-public class RacialTraits {
+public class RacialTraits extends Feat {
 
 }
